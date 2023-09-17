@@ -6,8 +6,9 @@ The data set reveals that a small handful of microbial species (also called oper
 You will find:
 -  index.html
 -  samples.json
--  js folder 
-inside the js folder you will find the files app.js and bonus.js
+-  static folder 
+inside the static folder you will find the files app.js and bonus.js
 This assignment uses Plotly, a JavaScript data visualization library, to create data visualizations that are engaging, accessible, and interactive.
 
-![image](https://github.com/LM202345/belly-button-challenge/assets/135395351/b25d72ac-ac86-41c8-b993-e873e143f4c8)
+![image](https://github.com/LM202345/belly-button-challenge/assets/135395351/c1457b99-2c4d-46f9-82ed-75f0e257751d)
+
